@@ -9,12 +9,16 @@ import { RouterLink } from 'vue-router';
 
 const menus = ref([
   {
-    to: "/Practice-01",
+    to: "/practice-01",
     title: "Practice-01",
   },
   {
-    to: "/Practice-02",
+    to: "/practice-02",
     title: "Practice-02",
+  },
+  {
+    to: "/practice-0526",
+    title: "practice-0526",
   },
 ]);
 

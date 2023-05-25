@@ -21,7 +21,7 @@ const sets = ref([
 function even(numbers) {
   return numbers.filter((number) => number % 2 === 0)
 }
-console.log(sets.value);
+// console.log(sets.value);
 </script>
 
 <style scoped>
