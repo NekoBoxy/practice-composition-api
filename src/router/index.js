@@ -15,7 +15,10 @@ const router = createRouter({
       path: '/Practice-02',
       component: () => import('../views/Practice-02.vue'),
     },
-
+    {
+      path: '/practice-0525',
+      component: () => import('../views/practice-0525.vue'),
+    },
     {
       path: '/practice-0526',
       component: () => import('../views/practice-0526.vue'),

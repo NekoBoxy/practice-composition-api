@@ -17,6 +17,10 @@ const menus = ref([
     title: "Practice-02",
   },
   {
+    to: "/practice-0525",
+    title: "practice-0525",
+  },
+  {
     to: "/practice-0526",
     title: "practice-0526",
   },
