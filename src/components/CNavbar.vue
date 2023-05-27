@@ -22,7 +22,11 @@ const menus = ref([
   },
   {
     to: "/practice-0526",
-    title: "practice-0526",
+    title: "emit 宣告為陣列",
+  },
+  {
+    to: "/practice-0526-2",
+    title: "emit 宣告為物件",
   },
 ]);
 
