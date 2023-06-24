@@ -28,6 +28,10 @@ const menus = ref([
     to: "/practice-0526-2",
     title: "emit 宣告為物件",
   },
+  {
+    to: "/practice-0608",
+    title: "practice-0608",
+  },
 ]);
 
 </script>
