@@ -32,6 +32,10 @@ const menus = ref([
     to: "/practice-0608",
     title: "practice-0608",
   },
+  {
+    to: "/practice-0629",
+    title: "practice-0629",
+  },
 ]);
 
 </script>
